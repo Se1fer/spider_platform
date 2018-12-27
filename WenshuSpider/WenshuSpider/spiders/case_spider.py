@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import traceback
+import pyv8
 #爬取中国裁判文书网的信息
 #http://wenshu.court.gov.cn/
 
